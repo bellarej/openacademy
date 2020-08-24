@@ -1,12 +1,12 @@
 # openAcademy-Odoo13
 
-### Odoo 13 works with python3.6 or above
+### Odoo 13 works with python3.8 or above
 
 #### To Run Module Firstly install odoo13 via github
 ```git clone https://github.com/odoo/odoo.git```
 
 #### For Create virtualenv
-```python3.6 -m venv myodovenv```
+```python3.8 -m venv myodovenv```
 
 ```source myodovenv/bin/activate```
 
